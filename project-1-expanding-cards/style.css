@@ -1,0 +1,18 @@
+*{box-sizing: border-box;}
+
+
+
+body{
+
+    font-family: "Lato", Helvetica;
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
